@@ -12,6 +12,6 @@ whether free or paid. All this content is organized under folders that refer to 
 - [English Collection](https://github.com/vfggf95565/Learning-Studio/blob/main/English/content.md)
 - [French Collection](https://github.com/vfggf95565/Learning-Studio/blob/main/French/content.md)
 - [Indian Collection](https://github.com/vfggf95565/Learning-Studio/blob/main/Indian/content.md)
-- [Russian Collection](https://github.com/vfggf95565/Learning-Studio/blob/blob/main/Russian/content.md)
+- [Russian Collection](https://github.com/vfggf95565/Learning-Studio/blob/main/Russian/content.md)
 
 
