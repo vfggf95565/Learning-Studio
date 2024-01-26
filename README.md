@@ -7,6 +7,7 @@ This group contains everything that we can find distinctive and useful, and all 
 whether free or paid. All this content is organized under folders that refer to the language of the courses.
 
 ## Content
+[![StandWithPalestineBadgeBordered](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/bordered/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
 - [Arabic Collection](https://github.com/vfggf95565/Learning-Studio/blob/main/Arabic/content.md)
 - [English Collection](https://github.com/vfggf95565/Learning-Studio/blob/main/English/content.md)
